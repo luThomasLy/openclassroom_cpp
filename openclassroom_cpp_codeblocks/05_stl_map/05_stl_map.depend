@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1585834174 source:/home/ninko/Documents/git/openclassroom_cpp_codeblocks/05_stl_map/main.cpp
+	<map>
+	<string>
+	<fstream>
+	<iostream>
+

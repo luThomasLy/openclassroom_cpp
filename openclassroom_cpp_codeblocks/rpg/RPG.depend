@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1213012279 source:/home/ninko/Documents/git/rpg/Arme.cpp
+	"Arme.h"
+
+1300206956 /home/ninko/Documents/git/rpg/Arme.h
+	<iostream>
+	<string>
+
+1585402240 source:/home/ninko/Documents/git/rpg/main.cpp
+	<iostream>
+	<string>
+	"Personnage.h"
+
+1585402263 /home/ninko/Documents/git/rpg/Personnage.h
+	<iostream>
+	<string>
+	"Arme.h"
+
+1585402267 source:/home/ninko/Documents/git/rpg/Personnage.cpp
+	"Personnage.h"
+

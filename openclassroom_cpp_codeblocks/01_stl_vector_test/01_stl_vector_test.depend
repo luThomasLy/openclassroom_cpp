@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585831902 source:/home/ninko/Documents/git/openclassroom_cpp_codeblocks/01_stl_vector_test/main.cpp
+	<iostream>
+	<vector>
+
